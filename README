@@ -1,0 +1,4 @@
+Software to help learning vocabulary.
+
+By default uses `~/.vocaber`, can be configured from under "# Configurable"
+See `config` and `fi-en.vocaber` for reference to file formats.

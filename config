@@ -1,0 +1,3 @@
+# Selects the wordlist and how many words to use if not passed on command line
+#default-wordlist: fi-en
+#default-words: 5
