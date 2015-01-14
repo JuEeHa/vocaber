@@ -160,6 +160,9 @@ print 'Current score: +%i %i -%i' % (state[right_key], state[empty_key], state[w
 print '-'*16
 
 for words, inflections, translations in getentries(wordlist, number_words):
+	if random.randint(0, 1) == 0: # Switch which way around translations is done 50% of time
+		words, translations = translations, words
+	
 	print ' / '.join(words)
 	answer = raw_input('> ')
 	
