@@ -4,8 +4,10 @@
 #If several values are possible, ; is used to separate them
 
 #word	inflection(s)	translation
-walk	walks, walked	kävellä
-talk	talks, talked	puhua; keskustella
+walk	walks, walked; walks	kävellä; kävely
+talk	talks, talked; talks	puhua; keskustella; keskustelu
 small	smaller, smallest	pieni
-find	finds, found	löytää
-program	programs, programed; programs	ohjelma; ohjelmoida
+find	finds, found; finds	löytää; löytö
+program	programs, programed; programs	ohjelmoida; ohjelma
+test	tests, tested; testd	testata; testi
+color; colour	colors, colored; colours, coloured; colors; colours	värittää; väri
